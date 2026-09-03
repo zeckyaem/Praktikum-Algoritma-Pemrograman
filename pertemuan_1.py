@@ -1,5 +1,0 @@
-print("Nama:\tZeckya Eliya Muhammad")
-print("Nim:\t2605060014")
-print("TTL:\tJember, 30 Juni 2008")
-print("JK:\t\tPerempuan")
-print("Hobi:\tMembaca")
